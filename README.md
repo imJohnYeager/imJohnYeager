@@ -2,9 +2,10 @@
 
 **`Dev BackEnd`**
 
-Me chamo John Yeager, tenho 24 anos e atualmente curso **Análise e Desenvolvimento de Sistemas na UNIFACS**.  
+Me chamo Jhonata Santos (ou John), tenho 24 anos e atualmente curso **Análise e Desenvolvimento de Sistemas na UNIFACS**.  
 Sou apaixonado por tecnologia e programação, com foco em **automação** e soluções que eliminem tarefas manuais repetitivas.  
 Estudo **Java há 4 anos**, que é a minha linguagem favorita, e gosto de me desafiar constantemente para evoluir como desenvolvedor.  
+Um fato curioso é que, o nome "Yeager" vem de um personagem que admiro muito no anime Attack on Titans.
 
 Conecto meus aprendizados com a prática, construindo projetos que unem criatividade e eficiência.  
 Seja em back-end, integração de sistemas ou automações, meu objetivo é sempre criar soluções robustas e úteis.  
