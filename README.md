@@ -117,3 +117,14 @@ Seja em back-end, integração de sistemas ou automações, meu objetivo é semp
   />
 
 </p>
+
+### 🚀 Projetos em Destaque
+
+- [**🌐 Meu Portfólio**](https://github.com/imJohnYeager/Portfolio)  
+  Repositório onde apresento todos os meus projetos.
+
+- [**Rolimons Monitor**](https://github.com/imJohnYeager/rolimonsmonitor)  
+  Bot que monitora preços de itens no site Rolimons e envia notificações automáticas.
+
+- [**Gerenciador de Despesas Pessoais**](https://github.com/imJohnYeager/despesas-pessoais)  
+  Aplicação em Java (arquitetura de microserviços) para controle de finanças pessoais.
