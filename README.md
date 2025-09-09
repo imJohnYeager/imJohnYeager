@@ -2,7 +2,7 @@
 
 **`Dev BackEnd`**
 
-Me chamo John Yeager, tenho 20 e poucos anos e atualmente curso **Análise e Desenvolvimento de Sistemas na UNIFACS**.  
+Me chamo John Yeager, tenho 24 anos e atualmente curso **Análise e Desenvolvimento de Sistemas na UNIFACS**.  
 Sou apaixonado por tecnologia e programação, com foco em **automação** e soluções que eliminem tarefas manuais repetitivas.  
 Estudo **Java há 4 anos**, que é a minha linguagem favorita, e gosto de me desafiar constantemente para evoluir como desenvolvedor.  
 
