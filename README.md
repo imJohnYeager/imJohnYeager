@@ -126,5 +126,9 @@ Seja em back-end, integração de sistemas ou automações, meu objetivo é semp
 - [**🌐 Meu Portfólio**](https://github.com/imJohnYeager/Portfolio)  
   Repositório onde apresento todos os meus projetos.
 
+  
+- [**💼 Workybara**](https://github.com/imJohnYeager/Workybara)  
+  Sistema próprio de busca por empregos.
+
 - [**Rolimons Monitor**](https://github.com/imJohnYeager/rolimonsmonitor)  
   Bot que monitora preços de itens no site Rolimons e envia notificações automáticas.
